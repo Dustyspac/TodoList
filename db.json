@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "4ff2",
+      "title": "React를 공부합시다",
+      "contents": "Axios 비동기 통신",
+      "isDone": false
+    },
+    {
+      "id": "e648",
+      "title": "DataBase로",
+      "contents": "정보를 보내요",
+      "isDone": false
+    },
+    {
+      "id": "0eea",
+      "title": "Thunk 미들웨어로",
+      "contents": "비동기 통신을 만들어요",
+      "isDone": false
+    }
+  ]
+}
